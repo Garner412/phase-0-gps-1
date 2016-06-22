@@ -1,7 +1,7 @@
 # Mad Markdown Skillz
 
 ```
-this is our first GPS session.
+this is our second GPS session.
 ```
 
 1. **Git**
