@@ -8,4 +8,4 @@ this is our first GPS session.
 2. *.md*
 3. [GitHub](https://github.com/lexac1 "lexac1")
 
-![working](/Capture.png)
+![working](Capture.PNG)
